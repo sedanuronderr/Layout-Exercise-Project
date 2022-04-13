@@ -1,4 +1,5 @@
 # Tasarim
+Button,İmageView and TextView features was used in the design
 
 <table>
 <tr>
