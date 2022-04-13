@@ -1,5 +1,5 @@
 # Tasarim
-Button,İmageView and TextView features was used in the design
+Button,İmageView,CardView,ConstraintLayout and TextView features was used in the design
 
 <table>
 <tr>
