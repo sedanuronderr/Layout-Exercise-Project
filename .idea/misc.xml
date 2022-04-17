@@ -4,11 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Tasarim/app/src/main/res/drawable/buttontasarim.xml" value="0.2595" />
+        <entry key="..\:/Tasarim/app/src/main/res/drawable/image.xml" value="0.222" />
         <entry key="..\:/Tasarim/app/src/main/res/drawable/textviewtasarim.xml" value="0.2" />
         <entry key="..\:/Tasarim/app/src/main/res/drawable/textviewtasarim2.xml" value="0.1" />
-        <entry key="..\:/Tasarim/app/src/main/res/layout/activity_limited_access.xml" value="0.264" />
+        <entry key="..\:/Tasarim/app/src/main/res/layout/activity_limited_access.xml" value="0.4" />
         <entry key="..\:/Tasarim/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Tasarim/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Tasarim/app/src/main/res/layout/gga.xml" value="0.264" />
         <entry key="..\:/Tasarim/app/src/main/res/layout/textviewtasarim.xml" value="0.22826086956521738" />
       </map>
     </option>
