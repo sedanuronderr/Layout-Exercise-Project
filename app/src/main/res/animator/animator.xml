@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+  >
+
+    <objectAnimator
+        android:propertyName="string"
+        android:duration="7"
+        android:valueFrom="float | int | color"
+        android:valueTo="float | int | color"
+        android:startOffset="9"
+        android:repeatCount="5"
+        android:repeatMode="restart"/>
+
+    <animator
+        android:duration="4"
+        android:valueFrom="float | int | color"
+        android:valueTo="float | int | color"
+        android:startOffset="7"
+        android:repeatCount="7"
+        android:repeatMode="restart"/>
+
+    </set>
+
+
+
+
